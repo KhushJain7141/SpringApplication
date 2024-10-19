@@ -1,0 +1,126 @@
+2024-10-19 12:58:21,128 [INFO] org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer [restartedMain] 
+
+2024-10-19 12:58:21,280 [DEBUG] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [restartedMain] 
+
+2024-10-19 12:58:21,385 [DEBUG] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [restartedMain] 
+
+2024-10-19 12:58:21,437 [DEBUG] org.springframework.security.web.DefaultSecurityFilterChain [restartedMain] 
+
+2024-10-19 12:58:21,499 [DEBUG] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [restartedMain] 
+
+2024-10-19 12:58:21,518 [DEBUG] org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [restartedMain] 
+
+2024-10-19 12:58:47,734 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-1] 
+
+2024-10-19 12:58:47,734 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-1] 
+
+2024-10-19 12:58:47,734 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-1] 
+
+2024-10-19 12:58:47,735 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-1] 
+
+2024-10-19 12:58:47,736 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-1] 
+
+2024-10-19 12:58:47,736 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-1] 
+
+2024-10-19 12:58:47,737 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-1] 
+
+2024-10-19 12:58:47,737 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-1] 
+
+2024-10-19 12:58:47,750 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-1] 
+
+2024-10-19 12:58:47,755 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-1] 
+
+2024-10-19 12:58:47,757 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-1] 
+
+2024-10-19 12:58:47,758 [DEBUG] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [http-nio-8081-exec-1] 
+
+2024-10-19 12:58:47,777 [DEBUG] org.springframework.web.servlet.view.ContentNegotiatingViewResolver [http-nio-8081-exec-1] 
+
+2024-10-19 12:58:47,928 [DEBUG] org.springframework.security.web.authentication.AnonymousAuthenticationFilter [http-nio-8081-exec-1] 
+
+2024-10-19 12:58:47,954 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-1] 
+
+2024-10-19 12:58:47,976 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-2] 
+
+2024-10-19 12:58:47,976 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-5] 
+
+2024-10-19 12:58:47,976 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-3] 
+
+2024-10-19 12:58:47,976 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-4] 
+
+2024-10-19 12:58:47,976 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-6] 
+
+2024-10-19 12:58:47,979 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-5] 
+
+2024-10-19 12:58:47,979 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-3] 
+
+2024-10-19 12:58:47,979 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-4] 
+
+2024-10-19 12:58:47,979 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-2] 
+
+2024-10-19 12:58:47,979 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-5] 
+
+2024-10-19 12:58:47,979 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-6] 
+
+2024-10-19 12:58:47,980 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-3] 
+
+2024-10-19 12:58:47,980 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-2] 
+
+2024-10-19 12:58:47,980 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-4] 
+
+2024-10-19 12:58:47,981 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-6] 
+
+2024-10-19 12:58:47,982 [DEBUG] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [http-nio-8081-exec-2] 
+
+2024-10-19 12:58:47,982 [DEBUG] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [http-nio-8081-exec-5] 
+
+2024-10-19 12:58:47,982 [DEBUG] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [http-nio-8081-exec-4] 
+
+2024-10-19 12:58:47,982 [DEBUG] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [http-nio-8081-exec-3] 
+
+2024-10-19 12:58:47,982 [DEBUG] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [http-nio-8081-exec-6] 
+
+2024-10-19 12:58:47,989 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-5] 
+
+2024-10-19 12:58:47,989 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-3] 
+
+2024-10-19 12:58:47,989 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-6] 
+
+2024-10-19 12:58:47,989 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-2] 
+
+2024-10-19 12:58:47,989 [DEBUG] org.springframework.security.web.authentication.AnonymousAuthenticationFilter [http-nio-8081-exec-5] 
+
+2024-10-19 12:58:47,989 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-4] 
+
+2024-10-19 12:58:47,990 [DEBUG] org.springframework.security.web.authentication.AnonymousAuthenticationFilter [http-nio-8081-exec-3] 
+
+2024-10-19 12:58:47,990 [DEBUG] org.springframework.security.web.authentication.AnonymousAuthenticationFilter [http-nio-8081-exec-6] 
+
+2024-10-19 12:58:47,990 [DEBUG] org.springframework.security.web.authentication.AnonymousAuthenticationFilter [http-nio-8081-exec-2] 
+
+2024-10-19 12:58:47,990 [DEBUG] org.springframework.security.web.authentication.AnonymousAuthenticationFilter [http-nio-8081-exec-4] 
+
+2024-10-19 12:58:48,167 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-7] 
+
+2024-10-19 12:58:48,167 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-10] 
+
+2024-10-19 12:58:48,169 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-10] 
+
+2024-10-19 12:58:48,169 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-10] 
+
+2024-10-19 12:58:48,170 [DEBUG] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [http-nio-8081-exec-10] 
+
+2024-10-19 12:58:48,175 [DEBUG] org.springframework.security.web.FilterChainProxy [http-nio-8081-exec-7] 
+
+2024-10-19 12:58:48,175 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-10] 
+
+2024-10-19 12:58:48,176 [DEBUG] org.springframework.security.web.authentication.AnonymousAuthenticationFilter [http-nio-8081-exec-10] 
+
+2024-10-19 12:58:48,176 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-7] 
+
+2024-10-19 12:58:48,177 [DEBUG] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [http-nio-8081-exec-7] 
+
+2024-10-19 12:58:48,181 [DEBUG] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-7] 
+
+2024-10-19 12:58:48,182 [DEBUG] org.springframework.security.web.authentication.AnonymousAuthenticationFilter [http-nio-8081-exec-7] 
+
